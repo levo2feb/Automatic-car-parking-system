@@ -49,13 +49,3 @@ Full documentation: [docs/iot design lab project report.pdf](https://github.com/
 - Mobile visualization via Blynk
 - Easily scalable for more slots
 
-## 📉 Limitations & Future Work
-
-- IR sensors may misread in dusty environments.
-- Add camera/ultrasonic for better accuracy.
-- Add navigation & booking in app.
-
-## 👨‍🔧 Contributors
-
-- Puneet Kumar (229309164)
-- Harshit Gupta (229311018)
