@@ -30,14 +30,14 @@ A smart parking system using **Arduino**, **IR sensors**, **ESP8266**, and **Bly
 
 ## 📸 Snapshots
 
-![Circuit][(images/circuit-diagram.png)](https://github.com/levo2feb/Automatic-car-parking-system/blob/main/images/Circuit%20diagram%201.png)
-*Fig: Circuit diagram*
+*Fig I: Circuit diagram* [(images/circuit-diagram.png)](https://github.com/levo2feb/Automatic-car-parking-system/blob/main/images/Circuit%20diagram%201.png)
 
-![App][(images/app-interface.png)](https://github.com/levo2feb/Automatic-car-parking-system/blob/main/images/app%20interface.png)
-*Fig: Mobile app interface*
 
-![Working Model][(images/working-model.png)](https://github.com/levo2feb/Automatic-car-parking-system/blob/main/images/complete%20working%20model.png)
-*Fig: Working prototype*
+*Fig II: Mobile app interface* [(images/app-interface.png)](https://github.com/levo2feb/Automatic-car-parking-system/blob/main/images/app%20interface.png)
+
+
+*Fig III: Working prototype* [(images/working-model.png)](https://github.com/levo2feb/Automatic-car-parking-system/blob/main/images/complete%20working%20model.png)
+
 
 ## 📄 Project Report
 
