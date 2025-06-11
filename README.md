@@ -46,6 +46,6 @@ Full documentation: [docs/iot design lab project report.pdf](https://github.com/
 ## 📌 Features
 
 - Real-time monitoring
-- Mobile visuali via Blynk
+- Mobile visualization via Blynk
 - Easily scalable for more slots
 
